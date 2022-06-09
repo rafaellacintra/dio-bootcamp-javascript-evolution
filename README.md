@@ -2,4 +2,4 @@
 Projetos realizados dentro do bootcamp Dio Impulso Javascript Evolution.
 
 # Desafios
-1. [Criar repositório](https://(https://github.com/rafaellacintra/dio-bootcamp-javascript-evolution))
+1. [Criar repositório](https://github.com/rafaellacintra/dio-bootcamp-javascript-evolution)
