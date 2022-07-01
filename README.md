@@ -20,8 +20,8 @@
 
 - Integrando um Backend em Node.js com um Frontend em React para um E-commerce
 </div>
-<div align='right'>
-<img width='80%' src='./public/img/logo-bootcamp.png'>
+<div>
+<img width='40%' src='./public/img/logo-bootcamp.png'>
 </div>
 </div>
 
